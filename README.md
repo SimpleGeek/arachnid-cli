@@ -1,3 +1,3 @@
-# Connexio CLI
+# Arachnid CLI
 
-This is the developer cli for the connexio IOT project.
+This is the developer cli for the Arachnid IOT project.
